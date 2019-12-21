@@ -1,0 +1,23 @@
+{
+  "name": "BelkoNode",
+  "version": "1.0.0",
+  "description": "\"Mon Projet Node JS\" \r \"Mon Projet Node JS __V2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belkoweb/BelkoNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belkoweb/BelkoNode/issues"
+  },
+  "homepage": "https://github.com/belkoweb/BelkoNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
