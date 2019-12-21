@@ -6,6 +6,6 @@ app.get('/',(req , res)=>{
 
 });
 
-app.listen(8098,()=>{
+app.listen(process.env.PORT,()=>{
     console.log('Server Started ...');
 });
